@@ -1,0 +1,44 @@
+/* CSS Reset */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+/* Google Font */
+body {
+	font-family: 'Roboto Serif', serif;
+	background-color: #DAFFFB;
+
+}
+html {
+
+	scroll-behavior: smooth;
+
+}
+
+nav {
+	background-color: #001C30;
+}
+
+#navlist {
+	color: #DAFFFB;
+}
+
+.card {
+	background-color: #001C30;
+}
+
+#contact-form {
+	background-color: #001C30;
+}
+
+#footer {
+	background-color: #001C30;
+}
+
+#submit {
+	background-color: #176B87;
+}
+
+/* color pallette src https://colorhunt.co/palette/001c30176b8764ccc5dafffb*/
