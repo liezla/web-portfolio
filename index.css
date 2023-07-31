@@ -41,4 +41,9 @@ nav {
 	background-color: #176B87;
 }
 
+.card-img-top {
+	height: 200px; 
+	object-fit: cover; 
+}
+
 /* color pallette src https://colorhunt.co/palette/001c30176b8764ccc5dafffb*/
